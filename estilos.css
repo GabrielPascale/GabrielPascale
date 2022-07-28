@@ -42,6 +42,10 @@ background-color:rgb(209, 247, 255);
     text-decoration:underline ;
 }
 
+.padding{
+    padding: 10px;
+}
+
 /*margen*/
 .margen{
     margin-left: 30px;
@@ -135,6 +139,7 @@ header{
 .flex-container{
     display: flex; 
 }
+
 
 .flex-fotos{
     display: inline;
